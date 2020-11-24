@@ -1,0 +1,60 @@
+.MENU-INICIAL{
+    display:grid;
+}
+ol{
+    display: grid;
+    grid-template-columns: 30% 30% 30% 30%;
+    grid-template-rows: 500%;
+    border-color: dimgrey;
+    padding-left: 0%;
+    padding-bottom: 10%;
+    padding-right: 17%;    
+    }
+li{
+    border: 2px solid darkred;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    color: darkred;
+    background-color: darkseagreen;
+}
+li:hover{
+    color:darkred ;
+    background-color: yellow;
+}
+body{
+    background-color: #DCDCDC;
+    padding: 1%;
+    border:5px solid dimgrey;
+}
+h1{
+    background-color: darkred;
+    border-radius: 15%;
+    border-color: dimgrey;
+}
+.rodape{
+    background-color: darkred;
+    border-radius: 15%;
+    border-color: dimgrey;
+}
+
+
+.TRABALHOS6A{
+    display: grid;
+.TRABALHOS6B{
+    display: grid;
+}
+.TRABALHOS6C{
+    display: grid;
+}
+}
+ul{
+    display: grid;
+    grid-template-columns: 30% 30% 30% 30%;
+    grid-template-rows: 500%;
+    border-color: dimgrey;
+    padding-left: 0%;
+    padding-bottom: 10%;
+    padding-right: 17%;    
+    }
+}
